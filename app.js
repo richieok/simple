@@ -20,7 +20,7 @@ app.get('/', (req, res)=>{
                 height: inherit;
             }
             h1 {
-                color: rgb(3, 169, 252);
+                color: rgb(30, 32, 33);
             }
         </style>
         <title>Addiena Concepts</title>
